@@ -29,7 +29,7 @@ jobs:
   with:
     # Deployment destination server & path. Formatted as protocol://domain.com:port/full/destination/path/
     ftp-server: 
-      # ftp.kaan.stedelijklyceumexpo.be:21/public_html/thema
+      # ftp://ftp.kaan.stedelijklyceumexpo.be:21/public_html/thema
     ftp-username: 
       # Kaan
     ftp-password: 
